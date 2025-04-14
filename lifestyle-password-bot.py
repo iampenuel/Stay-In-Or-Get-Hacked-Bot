@@ -20,7 +20,7 @@ while True:
     try:
         energy = int(input("On a scale of 1–10, how much energy do you have right now?: "))
         if 1 < energy > 10:
-            print("Oh my digital dayssss...I love you but dang my guy! On a scale of 1 TO 10!!! okay dear? try again. ")
+            print("Oh my digital dayssss...I love you but dang my guy! On a scale of 1 TO 10!!! okay dear? try again.\n")
             continue
         break
     except ValueError:
@@ -45,13 +45,13 @@ while True:
 
 # === PASSWORD ===
 while True:
-    password = input("Would you like a password while you're here? (yes/no): ").lower()
+    password = input("\nWould you like a password while you're here? (yes/no): ").lower()
     if password == "yes":
         print("You're smart! Let's get you a password 🙂\n")
         break
     elif password == "no":
         print("Okay... but don’t come crying to me when you get hacked. Just saying 🤷\n")
-        break
+        exit()
     else:
         print("Let's try this one more time, dear... it's a YES or NO question. Please and thank you.\n")
 
