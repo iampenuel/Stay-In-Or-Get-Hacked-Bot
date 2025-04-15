@@ -52,7 +52,7 @@ Electrical Engineering major @ Penn State | Learning Python, Git, and Machine Le
 > [LinkedIn](https://www.linkedin.com/in/penuel-stanley-zebulon-b63226257)
 
 ## 💬 Side Note
-This was built as part of my learning journey — no copy-paste shortcuts, just actual debugging, questions, and problem-solving.
+This was built as part of my learning journey :)
 If you're learning too: Let's keep going!! We got this. Let's build stuff that talks back...with attitude mwahahahahaa!!!
 Okay bye!
 
