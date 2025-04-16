@@ -36,11 +36,21 @@ Uses Python's built-in `random` and `string` modules.
 
 ## 🧪 Sample Output
 WELCOME TO THE STAY-IN-OR-GET-HACKED BOT
+
 On a scale of 1–10, how much energy do you have right now?: 2
-How much money do you have right now?: $5.50 You going to the dollar store??? Walmart??...what's the plan homie?
-Would you like a password while you're here? (yes/no): yes How strong? (weak / medium / strong): strong
+
+How much money do you have right now?: $5.50 
+
+You going to the dollar store??? Walmart??...what's the plan homie?
+
+Would you like a password while you're here? (yes/no): yes 
+
+How strong? (weak / medium / strong): strong
+
 FINALLY! A sensible being! You got it champ...
+
 Here’s your password: G7!ak#4Lm9*Vqz@1
+
 Better not forget it...or do. I can't really tell you what to do :)
 
 
@@ -55,7 +65,7 @@ Electrical Engineering major @ Penn State | Learning Python, Git, and Machine Le
 ## 💬 Side Note
 This was built as part of my learning journey :)
 
-If you're learning too: Let's keep going!! We got this. Let's build stuff that talks back...with attitude mwahahahahaa!!!
+If you're learning too: Let's keep going!! We got this. Let's build stuff that talks back...with attitude hehe!!!
 Okay bye!
 
 
