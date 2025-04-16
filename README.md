@@ -31,7 +31,7 @@ Uses Python's built-in `random` and `string` modules.
 - Writing scripts with real-time feedback
 
 ## 💻 Requirements
-- Python 3.x
+- Python 3
 - Terminal or IDE that supports `input()`
 
 ## 🧪 Sample Output
