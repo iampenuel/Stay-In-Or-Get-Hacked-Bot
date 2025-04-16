@@ -46,6 +46,7 @@ Better not forget it...or do. I can't really tell you what to do :)
 
 ## 👨‍💻 Built By
 Penuel Stanley-Zebulon
+
 Electrical Engineering major @ Penn State | Learning Python, Git, and Machine Learning by building real things
 
 > [GitHub Profile](https://github.com/iampenuel)
@@ -53,6 +54,7 @@ Electrical Engineering major @ Penn State | Learning Python, Git, and Machine Le
 
 ## 💬 Side Note
 This was built as part of my learning journey :)
+
 If you're learning too: Let's keep going!! We got this. Let's build stuff that talks back...with attitude mwahahahahaa!!!
 Okay bye!
 
