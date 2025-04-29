@@ -1,4 +1,4 @@
-# Stay-In-Or-Get-Hacked! - Lifestlye Advisor Bot
+# Stay-In-Or-Get-Hacked! - Lifestyle Advisor Bot
 
 ## 📝 Description
 A terminal-based Python program that helps users decide how to spend their day…
